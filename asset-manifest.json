@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ritviksardana.github.io/csb-zmnru/static/css/main.d68493d6.chunk.css",
+    "main.js": "https://ritviksardana.github.io/csb-zmnru/static/js/main.f71239e4.chunk.js",
+    "main.js.map": "https://ritviksardana.github.io/csb-zmnru/static/js/main.f71239e4.chunk.js.map",
+    "runtime-main.js": "https://ritviksardana.github.io/csb-zmnru/static/js/runtime-main.a1b6addf.js",
+    "runtime-main.js.map": "https://ritviksardana.github.io/csb-zmnru/static/js/runtime-main.a1b6addf.js.map",
+    "static/js/2.b33c66c8.chunk.js": "https://ritviksardana.github.io/csb-zmnru/static/js/2.b33c66c8.chunk.js",
+    "static/js/2.b33c66c8.chunk.js.map": "https://ritviksardana.github.io/csb-zmnru/static/js/2.b33c66c8.chunk.js.map",
+    "index.html": "https://ritviksardana.github.io/csb-zmnru/index.html",
+    "static/css/main.d68493d6.chunk.css.map": "https://ritviksardana.github.io/csb-zmnru/static/css/main.d68493d6.chunk.css.map",
+    "static/js/2.b33c66c8.chunk.js.LICENSE.txt": "https://ritviksardana.github.io/csb-zmnru/static/js/2.b33c66c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b6addf.js",
+    "static/js/2.b33c66c8.chunk.js",
+    "static/css/main.d68493d6.chunk.css",
+    "static/js/main.f71239e4.chunk.js"
+  ]
+}
